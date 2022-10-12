@@ -1,0 +1,19 @@
+# Custom Skins
+.minecraft/CustomSkinLoader/CustomSkinAPIPlus-ClientID
+.minecraft/CustomSkinLoader/CustomSkinLoader.log
+.minecraft/CustomSkinLoader/caches
+
+# Vanila
+.minecraft/crash-reports
+.minecraft/screenshots
+.minecraft/logs
+
+# Minimap
+.minecraft/journeymap/journeymap.log
+.minecraft/journeymap/data
+
+# User Info
+.minecraft/usernamecache.json
+.minecraft/servers.dat_old
+.minecraft/usercache.json
+.minecraft/.sl_password
