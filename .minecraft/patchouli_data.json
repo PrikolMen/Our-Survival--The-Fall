@@ -1,0 +1,19 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/better_casting",
+        "ars_nouveau:machines/enchanting_apparatus"
+      ],
+      "bookmarks": [
+        {
+          "entry": "ars_nouveau:getting_started/better_casting",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
