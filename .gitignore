@@ -6,7 +6,11 @@
 # Vanila
 .minecraft/crash-reports
 .minecraft/screenshots
+.minecraft/saves
 .minecraft/logs
+
+# Mojang Libs
+natives
 
 # Minimap
 .minecraft/journeymap/journeymap.log
@@ -18,3 +22,13 @@
 .minecraft/usercache.json
 .minecraft/.sl_password
 instance.cfg
+
+# Configs
+.minecraft/config/byg/backups/last_working_configs_backup.zip
+.minecraft/config/awesomedungeon.properties
+
+# Etched
+.minecraft/etched-sounds
+
+# Backups
+*.bak
